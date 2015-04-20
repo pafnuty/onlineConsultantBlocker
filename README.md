@@ -15,14 +15,13 @@
 
 - :exclamation: [jivosite.ru](http://jivosite.ru)
 - :exclamation: [siteheart.com](http://siteheart.com)
+- :exclamation: [redhelper.ru](http://redhelper.ru)
 - :grey_exclamation: [webim.ru](http://webim.ru)
 - :grey_exclamation: [krible.ru](http://krible.ru)
 - :grey_exclamation: [cloudim.ru](http://cloudim.ru)
-- :grey_exclamation: [gotalk.ru](http://gotalk.ru)
-- :grey_exclamation: [livetex.ru](http://livetex.ru)
-- :grey_exclamation: [nicon.ru](http://nicon.ru)
-- :grey_exclamation: [p3chat.com](http://p3chat.com)
-- :grey_exclamation: [redhelper.ru](http://redhelper.ru)
+- :exclamation: [gotalk.ru](http://gotalk.ru)
+- :exclamation: [livetex.ru](http://livetex.ru)
+- :exclamation: [p3chat.com](http://p3chat.com)
 - :grey_exclamation: [sitehelp.inkiev.net](http://sitehelp.inkiev.net)
 - :grey_exclamation: [spexe.com](http://spexe.com)
 - :grey_exclamation: [consultsystems.ru](http://consultsystems.ru)
@@ -42,13 +41,22 @@
 ## Код для вставки 
 ```
 # Блокируем jivosite.ru
-127.0.0.1 cdn.jivosite.com
-127.0.0.1 jivosite.com
-127.0.0.1 code.jivosite.com
+127.0.0.1 cdn.jivosite.com code.jivosite.com
 
 # Блокируем siteheart.com
-127.0.0.1 widget.siteheart.com
-127.0.0.1 static.siteheart.com
+127.0.0.1 widget.siteheart.com static.siteheart.com
+
+# Блокируем redhelper.ru
+127.0.0.1 web.redhelper.ru
+
+# Блокируем livetex.ru
+127.0.0.1 web-client.livetex.ru
+
+# Блокируем gotalk.ru
+127.0.0.1 www.gotalk.ru gotalk.ru
+
+# Блокируем p3chat.com
+127.0.0.1 p3chat.com
 ```
 
 ## Как добавить новую блокировку
