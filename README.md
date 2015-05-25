@@ -36,6 +36,8 @@
 - :grey_exclamation: [siteheart.com](http://siteheart.com)
 - :grey_exclamation: [talkdriver.ru](http://talkdriver.ru)
 - :grey_exclamation: [zopim.com](http://zopim.com)
+- :exclamation: [onicon.ru](http://onicon.ru/)
+- :exclamation: [leadiacloud.com](http://leadiacloud.com/)
 
    
 ## Код для вставки 
@@ -57,6 +59,12 @@
 
 # Блокируем p3chat.com
 127.0.0.1 p3chat.com
+
+# Блокируем onicon.ru
+127.0.0.1 cp.onicon.ru
+
+# Блокируем leadiacloud.com
+127.0.0.1 api.leadiacloud.com
 ```
 
 ## Как добавить новую блокировку
