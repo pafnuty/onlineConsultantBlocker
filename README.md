@@ -17,7 +17,7 @@
 - :exclamation: [siteheart.com](http://siteheart.com)
 - :exclamation: [redhelper.ru](http://redhelper.ru)
 - :grey_exclamation: [webim.ru](http://webim.ru)
-- :grey_exclamation: [krible.ru](http://krible.ru)
+- :exclamation: [krible.ru](http://krible.ru)
 - :grey_exclamation: [cloudim.ru](http://cloudim.ru)
 - :exclamation: [gotalk.ru](http://gotalk.ru)
 - :exclamation: [livetex.ru](http://livetex.ru)
@@ -38,10 +38,15 @@
 - :grey_exclamation: [zopim.com](http://zopim.com)
 - :exclamation: [onicon.ru](http://onicon.ru/)
 - :exclamation: [leadiacloud.com](http://leadiacloud.com/)
+- :exclamation: [skobeeff.ru](http://skobeeff.ru/)
 
    
 ## Код для вставки 
 ```
+# Блокируем онлайн-консультанты
+# http://git.io/vkfQv
+#------------------------------
+
 # Блокируем jivosite.ru
 127.0.0.1 cdn.jivosite.com code.jivosite.com
 
@@ -65,6 +70,14 @@
 
 # Блокируем leadiacloud.com
 127.0.0.1 api.leadiacloud.com
+
+# Блокируем krible.com
+127.0.0.1 cdn.krible.com
+
+# Блокируем skobeeff.ru
+127.0.0.1 widget.skobeeff.ru
+
+#------------------------------
 ```
 
 ## Как добавить новую блокировку
