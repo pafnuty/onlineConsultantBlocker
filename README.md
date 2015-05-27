@@ -39,6 +39,7 @@
 - :exclamation: [onicon.ru](http://onicon.ru/)
 - :exclamation: [leadiacloud.com](http://leadiacloud.com/)
 - :exclamation: [skobeeff.ru](http://skobeeff.ru/)
+- :exclamation: [pravoved.ru](https://pravoved.ru/)
 
    
 ## Код для вставки 
@@ -58,6 +59,7 @@
 
 # Блокируем livetex.ru
 127.0.0.1 web-client.livetex.ru
+127.0.0.1 web-client-02.livetex.ru
 
 # Блокируем gotalk.ru
 127.0.0.1 www.gotalk.ru gotalk.ru
@@ -76,6 +78,9 @@
 
 # Блокируем skobeeff.ru
 127.0.0.1 widget.skobeeff.ru
+
+# Блокируем pravoved.ru
+127.0.0.1 api-pravoved.s3.amazonaws.com
 
 #------------------------------
 ```
