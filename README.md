@@ -40,6 +40,8 @@
 - :exclamation: [leadiacloud.com](http://leadiacloud.com/)
 - :exclamation: [skobeeff.ru](http://skobeeff.ru/)
 - :exclamation: [pravoved.ru](https://pravoved.ru/)
+- :exclamation: [cleversite.ru](http://cleversite.ru/)
+- :exclamation: [blablateka.com](http://blablateka.com/)
 
    
 ## Код для вставки 
@@ -82,9 +84,15 @@
 # Блокируем pravoved.ru
 127.0.0.1 api-pravoved.s3.amazonaws.com
 
+# Блокируем cleversite.ru
+127.0.0.1 cleversite.ru
+
+# Блокируем blablateka.com
+127.0.0.1 code.blablateka.com
+
 #------------------------------
 ```
 
 ## Как добавить новую блокировку
-Если вы наткнулись на сайт, где установлен онлайн-консультант, не указанный в списке или не помеченный красным восклицательным знаком - [напишите об этом](https://github.com/pafnuty/onlineConsultantBlocker/issues).
+Если вы наткнулись на сайт, где установлен онлайн-консультант, не указанный в списке или не помеченный красным восклицательным знаком - [напишите об этом](https://github.com/pafnuty/onlineConsultantBlocker/issues) или самостоятельно отредактируйте файл readme.md и создайте pull-request.
 
