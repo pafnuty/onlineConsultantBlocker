@@ -24,7 +24,7 @@
 - :exclamation: [p3chat.com](http://p3chat.com)
 - :grey_exclamation: [sitehelp.inkiev.net](http://sitehelp.inkiev.net)
 - :grey_exclamation: [spexe.com](http://spexe.com)
-- :grey_exclamation: [consultsystems.ru](http://consultsystems.ru)
+- :exclamation: [consultsystems.ru](http://consultsystems.ru)
 - :grey_exclamation: [consultant-web.ru](http://consultant-web.ru)
 - :grey_exclamation: [activetalk.ru](http://activetalk.ru)
 - :grey_exclamation: [livecontact.ru](http://livecontact.ru)
@@ -42,6 +42,7 @@
 - :exclamation: [pravoved.ru](https://pravoved.ru/)
 - :exclamation: [cleversite.ru](http://cleversite.ru/)
 - :exclamation: [blablateka.com](http://blablateka.com/)
+- :exclamation: [chatra.io](http://chatra.io/)
 
    
 ## Код для вставки 
@@ -90,9 +91,16 @@
 # Блокируем blablateka.com
 127.0.0.1 code.blablateka.com
 
+# Блокируем chatra.io
+127.0.0.1 chat.chatra.io
+
+# Блокируем consultsystems.ru
+127.0.0.1 consultsystems.ru
+
 #------------------------------
 ```
 
 ## Как добавить новую блокировку
-Если вы наткнулись на сайт, где установлен онлайн-консультант, не указанный в списке или не помеченный красным восклицательным знаком - [напишите об этом](https://github.com/pafnuty/onlineConsultantBlocker/issues) или самостоятельно отредактируйте файл readme.md и создайте pull-request.
+Если вы наткнулись на сайт, где установлен онлайн-консультант, не указанный в списке или не помеченный красным восклицательным знаком - [напишите об этом](https://github.com/pafnuty/onlineConsultantBlocker/issues), при написании сообщения добавьте упоминание меня (@pafnuty) для более быстрого реагирования.
+Либо вы можете самостоятельно отредактировать файл readme.md и отправить pull-request.
 
