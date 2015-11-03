@@ -43,6 +43,8 @@
 - :exclamation: [cleversite.ru](http://cleversite.ru/)
 - :exclamation: [blablateka.com](http://blablateka.com/)
 - :exclamation: [chatra.io](http://chatra.io/)
+- :exclamation: [eyenewton.ru](http://eyenewton.ru/)
+- :exclamation: [zopim.com](http://zopim.com/)
 
    
 ## Код для вставки 
@@ -96,6 +98,12 @@
 
 # Блокируем consultsystems.ru
 127.0.0.1 consultsystems.ru
+
+# Блокируем zopim.com
+127.0.0.1 v2.zopim.com
+
+# Блокируем eyenewton.ru
+127.0.0.1 eyenewton.ru
 
 #------------------------------
 ```
