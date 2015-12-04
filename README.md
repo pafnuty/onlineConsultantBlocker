@@ -45,6 +45,7 @@
 - :exclamation: [chatra.io](http://chatra.io/)
 - :exclamation: [eyenewton.ru](http://eyenewton.ru/)
 - :exclamation: [zopim.com](http://zopim.com/)
+- :exclamation: [callbackhunter.com](http://callbackhunter.com/)
 
    
 ## Код для вставки 
@@ -105,10 +106,46 @@
 # Блокируем eyenewton.ru
 127.0.0.1 eyenewton.ru
 
+# Блокируем callbackhunter.com
+127.0.0.1 cdn.callbackhunter.com
+
 #------------------------------
 ```
 
 ## Как добавить новую блокировку
 Если вы наткнулись на сайт, где установлен онлайн-консультант, не указанный в списке или не помеченный красным восклицательным знаком - [напишите об этом](https://github.com/pafnuty/onlineConsultantBlocker/issues), при написании сообщения добавьте упоминание меня (@pafnuty) для более быстрого реагирования.
 Либо вы можете самостоятельно отредактировать файл readme.md и отправить pull-request.
+
+## Бонус!
+
+```
+# Блокируем рекламу в skype
+# http://git.io/vkfQv
+#------------------------------
+127.0.0.1 apps.skype.com
+127.0.0.1 live.rads.msn.com
+127.0.0.1 ads1.msn.com
+127.0.0.1 static.2mdn.net
+127.0.0.1 g.msn.com
+127.0.0.1 a.ads2.msads.net
+127.0.0.1 b.ads2.msads.net
+127.0.0.1 ad.doubleclick.net
+127.0.0.1 ac3.msn.com
+127.0.0.1 rad.msn.com
+127.0.0.1 msntest.serving-sys.com
+127.0.0.1 bs.serving-sys.com
+127.0.0.1 flex.msn.com
+127.0.0.1 ec.atdmt.com
+127.0.0.1 cdn.atdmt.com
+127.0.0.1 db3aqu.atdmt.com
+127.0.0.1 cds26.ams9.msecn.net
+127.0.0.1 sO.2mdn.net
+127.0.0.1 aka-cdn-ns.adtech.de
+127.0.0.1 secure.flashtalking.com
+127.0.0.1 adnexus.net
+127.0.0.1 adnxs.com
+127.0.0.1 *.rad.msn.com
+127.0.0.1 *.msads.net
+127.0.0.1 *.msecn.net
+```
 
