@@ -66,6 +66,7 @@
 # Блокируем livetex.ru
 127.0.0.1 web-client.livetex.ru
 127.0.0.1 web-client-02.livetex.ru
+127.0.0.1 widgets.livetex.ru
 
 # Блокируем gotalk.ru
 127.0.0.1 www.gotalk.ru gotalk.ru
