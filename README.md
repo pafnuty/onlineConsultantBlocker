@@ -20,6 +20,7 @@
 - :exclamation: [krible.ru](http://krible.ru)
 - :grey_exclamation: [cloudim.ru](http://cloudim.ru)
 - :exclamation: [gotalk.ru](http://gotalk.ru)
+- :exclamation: [leadia.ru](http://leadia.ru)
 - :exclamation: [livetex.ru](http://livetex.ru)
 - :exclamation: [p3chat.com](http://p3chat.com)
 - :grey_exclamation: [sitehelp.inkiev.net](http://sitehelp.inkiev.net)
@@ -62,6 +63,10 @@
 
 # Блокируем redhelper.ru
 127.0.0.1 web.redhelper.ru
+
+# Блокируем leadia.ru
+127.0.0.1 api.leadiacloud.com
+127.0.0.1 api.cloudleadia.com
 
 # Блокируем livetex.ru
 127.0.0.1 web-client.livetex.ru
