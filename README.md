@@ -63,6 +63,10 @@
 # Блокируем redhelper.ru
 127.0.0.1 web.redhelper.ru
 
+# Блокируем leadia.ru
+127.0.0.1 api.leadiacloud.com
+127.0.0.1 api.cloudleadia.com
+
 # Блокируем livetex.ru
 127.0.0.1 web-client.livetex.ru
 127.0.0.1 web-client-02.livetex.ru
