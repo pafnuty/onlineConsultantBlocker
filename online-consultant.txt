@@ -1,0 +1,66 @@
+# Блокируем онлайн-консультанты
+# http://git.io/vkfQv
+#------------------------------
+
+# Блокируем jivosite.ru
+||cdn.jivosite.com*
+||code.jivosite.com*
+
+# Блокируем siteheart.com
+||widget.siteheart.com*
+||static.siteheart.com*
+
+# Блокируем redhelper.ru
+||web.redhelper.ru*
+||*
+# Блокируем leadia.ru
+||api.leadiacloud.com*
+||api.cloudleadia.com*
+||*
+# Блокируем livetex.ru
+||web-client.livetex.ru*
+||web-client-02.livetex.ru*
+||widgets.livetex.ru*
+||*
+# Блокируем gotalk.ru
+||www.gotalk.ru*
+||gotalk.ru*
+||*
+# Блокируем p3chat.com
+||p3chat.com*
+||*
+# Блокируем onicon.ru
+||cp.onicon.ru*
+||*
+# Блокируем leadiacloud.com
+||api.leadiacloud.com*
+||*
+# Блокируем krible.com
+||cdn.krible.com*
+||*
+# Блокируем skobeeff.ru
+||widget.skobeeff.ru*
+||*
+# Блокируем pravoved.ru
+||api-pravoved.s3.amazonaws.com*
+||*
+# Блокируем cleversite.ru
+||cleversite.ru*
+||*
+# Блокируем blablateka.com
+||code.blablateka.com*
+||*
+# Блокируем chatra.io
+||chat.chatra.io*
+||*
+# Блокируем consultsystems.ru
+||consultsystems.ru*
+||*
+# Блокируем zopim.com
+||v2.zopim.com*
+||*
+# Блокируем eyenewton.ru
+||eyenewton.ru*
+||*
+# Блокируем callbackhunter.com
+||cdn.callbackhunter.com*
