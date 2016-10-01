@@ -47,6 +47,7 @@
 - :exclamation: [eyenewton.ru](http://eyenewton.ru/)
 - :exclamation: [zopim.com](http://zopim.com/)
 - :exclamation: [callbackhunter.com](http://callbackhunter.com/)
+- :exclamation: [me-talk.ru](http://me-talk.ru/)
 
    
 ## Код для вставки 
@@ -114,6 +115,9 @@
 
 # Блокируем callbackhunter.com
 127.0.0.1 cdn.callbackhunter.com
+
+# Блокируем me-talk.ru
+127.0.0.1 me-talk.ru
 
 #------------------------------
 ```
