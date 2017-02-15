@@ -48,6 +48,7 @@
 - :exclamation: [zopim.com](http://zopim.com/)
 - :exclamation: [callbackhunter.com](http://callbackhunter.com/)
 - :exclamation: [me-talk.ru](http://me-talk.ru/)
+- :exclamation: [binotel.ua](http://binotel.ua)
 
    
 ## Код для вставки 
@@ -118,6 +119,9 @@
 
 # Блокируем me-talk.ru
 127.0.0.1 me-talk.ru
+
+# Блокируем binotel.ua
+127.0.0.1 my.binotel.ua
 
 #------------------------------
 ```

@@ -66,3 +66,6 @@
 
 ! Блокируем callbackhunter.com
 ||cdn.callbackhunter.com*
+
+! Блокируем binotel.ua
+||my.binotel.ua*
