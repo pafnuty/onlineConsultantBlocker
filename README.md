@@ -49,6 +49,7 @@
 - :exclamation: [callbackhunter.com](http://callbackhunter.com/)
 - :exclamation: [me-talk.ru](http://me-talk.ru/)
 - :exclamation: [binotel.ua](http://binotel.ua)
+- :exclamation: [leadback.ru](http://leadback.ru)
 
    
 ## Код для вставки 
@@ -122,6 +123,9 @@
 
 # Блокируем binotel.ua
 127.0.0.1 my.binotel.ua
+
+# Блокируем leadback.ru
+127.0.0.1 leadback.ru
 
 #------------------------------
 ```
