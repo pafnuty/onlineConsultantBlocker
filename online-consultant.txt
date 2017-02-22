@@ -69,3 +69,6 @@
 
 ! Блокируем binotel.ua
 ||my.binotel.ua*
+
+! Блокируем leadback.ru
+||leadback.ru*
