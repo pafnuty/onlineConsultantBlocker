@@ -50,6 +50,7 @@
 - :exclamation: [me-talk.ru](http://me-talk.ru/)
 - :exclamation: [binotel.ua](http://binotel.ua)
 - :exclamation: [leadback.ru](http://leadback.ru)
+- :exclamation: [venyoo.ru](http://venyoo.ru)
 
    
 ## Код для вставки 
@@ -126,6 +127,9 @@
 
 # Блокируем leadback.ru
 127.0.0.1 leadback.ru
+
+# Блокируем api.venyoo.ru
+127.0.0.1 api.venyoo.ru
 
 #------------------------------
 ```

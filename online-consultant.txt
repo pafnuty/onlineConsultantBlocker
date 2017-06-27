@@ -72,3 +72,6 @@
 
 ! Блокируем leadback.ru
 ||leadback.ru*
+
+! Блокируем leadback.ru
+||api.venyoo.ru*
