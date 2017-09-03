@@ -51,6 +51,9 @@
 - :exclamation: [binotel.ua](http://binotel.ua)
 - :exclamation: [leadback.ru](http://leadback.ru)
 - :exclamation: [venyoo.ru](http://venyoo.ru)
+- :exclamation: [envybox.io](http://envybox.io)
+- :exclamation: [callbackkiller.com](http://callbackkiller.com)
+- :exclamation: [whitesaas.com](http://whitesaas.com)
 
    
 ## Код для вставки 
@@ -127,6 +130,12 @@
 
 # Блокируем api.venyoo.ru
 127.0.0.1 api.venyoo.ru
+
+# Блокируем callbackkiller.com, envybox.io и whitesaas.com
+127.0.0.1 cdn.callbackkiller.com
+127.0.0.1 callbackkiller.com
+127.0.0.1 cdn.saas-support.com
+127.0.0.1 whitesaas.com
 
 #------------------------------
 ```
