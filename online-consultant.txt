@@ -78,3 +78,9 @@
 
 ! Блокируем venyoo.ru
 ||api.venyoo.ru*
+
+! Блокируем callbackkiller.com, envybox.io и whitesaas.com
+||cdn.callbackkiller.com*
+||callbackkiller.com*
+||cdn.saas-support.com*
+||whitesaas.com*
