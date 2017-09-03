@@ -67,6 +67,9 @@
 ! Блокируем callbackhunter.com
 ||cdn.callbackhunter.com*
 
+! Блокируем me-talk.ru
+||me-talk.ru*
+
 ! Блокируем binotel.ua
 ||my.binotel.ua*
 
