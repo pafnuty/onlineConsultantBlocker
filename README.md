@@ -86,9 +86,6 @@
 # Блокируем onicon.ru
 127.0.0.1 cp.onicon.ru
 
-# Блокируем leadiacloud.com
-127.0.0.1 api.leadiacloud.com
-
 # Блокируем krible.com
 127.0.0.1 cdn.krible.com
 
