@@ -3,78 +3,78 @@
 #------------------------------
 
 # Блокируем jivosite.ru
-127.0.0.1 cdn.jivosite.com code.jivosite.com
+0.0.0.0 cdn.jivosite.com code.jivosite.com
 
 # Блокируем siteheart.com
-127.0.0.1 widget.siteheart.com static.siteheart.com
+0.0.0.0 widget.siteheart.com static.siteheart.com
 
 # Блокируем redhelper.ru
-127.0.0.1 web.redhelper.ru
+0.0.0.0 web.redhelper.ru
 
 # Блокируем leadia.ru
-127.0.0.1 api.leadiacloud.com
-127.0.0.1 api.cloudleadia.com
+0.0.0.0 api.leadiacloud.com
+0.0.0.0 api.cloudleadia.com
 
 # Блокируем livetex.ru
-127.0.0.1 web-client.livetex.ru
-127.0.0.1 web-client-02.livetex.ru
-127.0.0.1 widgets.livetex.ru
+0.0.0.0 web-client.livetex.ru
+0.0.0.0 web-client-02.livetex.ru
+0.0.0.0 widgets.livetex.ru
 
 # Блокируем gotalk.ru
-127.0.0.1 www.gotalk.ru gotalk.ru
+0.0.0.0 www.gotalk.ru gotalk.ru
 
 # Блокируем p3chat.com
-127.0.0.1 p3chat.com
+0.0.0.0 p3chat.com
 
 # Блокируем onicon.ru
-127.0.0.1 cp.onicon.ru
+0.0.0.0 cp.onicon.ru
 
 # Блокируем krible.com
-127.0.0.1 cdn.krible.com
+0.0.0.0 cdn.krible.com
 
 # Блокируем skobeeff.ru
-127.0.0.1 widget.skobeeff.ru
+0.0.0.0 widget.skobeeff.ru
 
 # Блокируем pravoved.ru
-127.0.0.1 api-pravoved.s3.amazonaws.com
+0.0.0.0 api-pravoved.s3.amazonaws.com
 
 # Блокируем cleversite.ru
-127.0.0.1 cleversite.ru
+0.0.0.0 cleversite.ru
 
 # Блокируем blablateka.com
-127.0.0.1 code.blablateka.com
+0.0.0.0 code.blablateka.com
 
 # Блокируем chatra.io
-127.0.0.1 chat.chatra.io
+0.0.0.0 chat.chatra.io
 
 # Блокируем consultsystems.ru
-127.0.0.1 consultsystems.ru
+0.0.0.0 consultsystems.ru
 
 # Блокируем zopim.com
-127.0.0.1 v2.zopim.com
+0.0.0.0 v2.zopim.com
 
 # Блокируем eyenewton.ru
-127.0.0.1 eyenewton.ru
+0.0.0.0 eyenewton.ru
 
 # Блокируем callbackhunter.com
-127.0.0.1 cdn.callbackhunter.com
+0.0.0.0 cdn.callbackhunter.com
 
 # Блокируем me-talk.ru
-127.0.0.1 me-talk.ru
+0.0.0.0 me-talk.ru
 
 # Блокируем binotel.ua
-127.0.0.1 my.binotel.ua
+0.0.0.0 my.binotel.ua
 
 # Блокируем leadback.ru
-127.0.0.1 leadback.ru
+0.0.0.0 leadback.ru
 
 # Блокируем api.venyoo.ru
-127.0.0.1 api.venyoo.ru
+0.0.0.0 api.venyoo.ru
 
 # Блокируем callbackkiller.com, envybox.io и whitesaas.com
-127.0.0.1 cdn.callbackkiller.com
-127.0.0.1 callbackkiller.com
-127.0.0.1 cdn.saas-support.com
-127.0.0.1 whitesaas.com
+0.0.0.0 cdn.callbackkiller.com
+0.0.0.0 callbackkiller.com
+0.0.0.0 cdn.saas-support.com
+0.0.0.0 whitesaas.com
 
 #------------------------------
