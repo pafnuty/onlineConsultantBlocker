@@ -3,10 +3,12 @@
 #------------------------------
 
 # Блокируем jivosite.ru
-0.0.0.0 cdn.jivosite.com code.jivosite.com
+0.0.0.0 cdn.jivosite.com
+0.0.0.0 code.jivosite.com
 
 # Блокируем siteheart.com
-0.0.0.0 widget.siteheart.com static.siteheart.com
+0.0.0.0 widget.siteheart.com
+0.0.0.0 static.siteheart.com
 
 # Блокируем redhelper.ru
 0.0.0.0 web.redhelper.ru
@@ -21,7 +23,8 @@
 0.0.0.0 widgets.livetex.ru
 
 # Блокируем gotalk.ru
-0.0.0.0 www.gotalk.ru gotalk.ru
+0.0.0.0 www.gotalk.ru
+0.0.0.0 gotalk.ru
 
 # Блокируем p3chat.com
 0.0.0.0 p3chat.com
