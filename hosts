@@ -80,4 +80,6 @@
 0.0.0.0 cdn.saas-support.com
 0.0.0.0 whitesaas.com
 
+# Блокируем crm.sov-inform-buro.ru
+0.0.0.0 crm.sov-inform-buro.ru
 #------------------------------
