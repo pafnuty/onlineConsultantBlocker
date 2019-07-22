@@ -67,6 +67,7 @@
 
 # Блокируем binotel.ua
 0.0.0.0 my.binotel.ua
+0.0.0.0 widgets.binotel.com
 
 # Блокируем leadback.ru
 0.0.0.0 leadback.ru
