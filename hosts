@@ -83,4 +83,10 @@
 
 # Блокируем crm.sov-inform-buro.ru
 0.0.0.0 crm.sov-inform-buro.ru
+
+# Блокируем verbox.ru
+0.0.0.0 admin.verbox.ru
+
+# Блокируем tawk.to
+0.0.0.0 embed.tawk.to
 #------------------------------
