@@ -89,4 +89,7 @@
 
 # Блокируем tawk.to
 0.0.0.0 embed.tawk.to
+
+# Блокируем teletype.app
+0.0.0.0 widget.teletype.app
 #------------------------------
