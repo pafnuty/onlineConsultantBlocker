@@ -72,6 +72,7 @@
 
 ! Блокируем binotel.ua
 ||my.binotel.ua*
+||widgets.binotel.com*
 
 ! Блокируем leadback.ru
 ||leadback.ru*
@@ -84,3 +85,15 @@
 ||callbackkiller.com*
 ||cdn.saas-support.com*
 ||whitesaas.com*
+
+! Блокируем crm.sov-inform-buro.ru
+||crm.sov-inform-buro.ru*
+
+! Блокируем verbox.ru
+||admin.verbox.ru*
+
+! Блокируем tawk.to
+||embed.tawk.to*
+
+! Блокируем teletype.app
+||widget.teletype.app*
