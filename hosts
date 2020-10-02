@@ -89,7 +89,80 @@
 
 # Блокируем tawk.to
 0.0.0.0 embed.tawk.to
+0.0.0.0 tawk.to
+
+# Блокируем teletype.app
+0.0.0.0 widget.teletype.app*
+
+# Блокируем bitrix24.ru
+0.0.0.0 bitrix24.ru*
 
 # Блокируем teletype.app
 0.0.0.0 widget.teletype.app
+
+# Блокируем relap.io
+0.0.0.0 relap.io
+
+# Блокируем uptolike.com
+0.0.0.0 uptolike.com
+
+# Блокируем pozvonim.com
+0.0.0.0 pozvonim.com
+
+# Блокируем intercom.com
+0.0.0.0 intercomcdn.com
+0.0.0.0 intercomassets.com
+0.0.0.0 intercom.com
+0.0.0.0 intercom.io
+
+# Блокируем perezvonok.ru
+0.0.0.0 perezvonok.ru
+
+# Блокируем redhelper.ru
+0.0.0.0 redhelper.ru
+
+# Блокируем uptocall.com
+0.0.0.0 uptocall.com
+
+# Блокируем chaser.ru
+0.0.0.0 chaser.ru
+
+# Блокируем pogodiwidget.com
+0.0.0.0 pogodiwidget.com
+
+# Блокируем perezvoni.com
+0.0.0.0 perezvoni.com
+
+# Блокируем callbaska.ru
+0.0.0.0 callbaska.ru
+
+# Блокируем 2calls.ru
+0.0.0.0 2calls.ru
+
+# Блокируем clevercallback.com
+0.0.0.0 clevercallback.com
+
+# Блокируем cashmyvisit.com
+0.0.0.0 cashmyvisit.com
+
+# Блокируем expecto.me
+0.0.0.0 expecto.me
+
+# Блокируем comagic.ru
+0.0.0.0 comagic.ru
+
+# Блокируем callibri.ru
+0.0.0.0 callibri.ru
+
+# Блокируем talk-me.ru
+0.0.0.0 talk-me.ru
+
+# Блокируем legalaxy.com
+0.0.0.0 legalaxy.com
+
+# Блокируем roistat.com
+0.0.0.0 roistat.com
+
+# Блокируем calltouch.ru
+0.0.0.0 calltouch.ru
 #------------------------------

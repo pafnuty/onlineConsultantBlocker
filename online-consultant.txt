@@ -1,99 +1,171 @@
-[Adblock Plus 2.0]
-! Title: onlineConsultantBlocker
+! Title: onlineConsultantBlocker for ad block extentions (uBlock, AdBlock etc.)
 ! Homepage: http://git.io/vkfQv
 ! Expires: 30 days
-! Version: 1
+! Version: 1.1.0
 
 ! Блокируем jivosite.ru
-||cdn.jivosite.com*
-||code.jivosite.com*
+||cdn.jivosite.com^
+||code.jivosite.com^
 
 ! Блокируем siteheart.com
-||widget.siteheart.com*
-||static.siteheart.com*
+||widget.siteheart.com^
+||static.siteheart.com^
 
 ! Блокируем redhelper.ru
-||web.redhelper.ru*
+||web.redhelper.ru^
 
 ! Блокируем leadia.ru
-||api.leadiacloud.com*
-||api.cloudleadia.com*
+||api.leadiacloud.com^
+||api.cloudleadia.com^
 
 ! Блокируем livetex.ru
-||web-client.livetex.ru*
-||web-client-02.livetex.ru*
-||widgets.livetex.ru*
+||web-client.livetex.ru^
+||web-client-02.livetex.ru^
+||widgets.livetex.ru^
 
 ! Блокируем gotalk.ru
-||www.gotalk.ru*
-||gotalk.ru*
+||www.gotalk.ru^
+||gotalk.ru^
 
 ! Блокируем p3chat.com
-||p3chat.com*
+||p3chat.com^
 
 ! Блокируем onicon.ru
-||cp.onicon.ru*
+||cp.onicon.ru^
 
 ! Блокируем leadiacloud.com
-||api.leadiacloud.com*
+||api.leadiacloud.com^
 
 ! Блокируем krible.com
-||cdn.krible.com*
+||cdn.krible.com^
 
 ! Блокируем skobeeff.ru
-||widget.skobeeff.ru*
+||widget.skobeeff.ru^
 
 ! Блокируем pravoved.ru
-||api-pravoved.s3.amazonaws.com*
+||api-pravoved.s3.amazonaws.com^
 
 ! Блокируем cleversite.ru
-||cleversite.ru*
+||cleversite.ru^
 
 ! Блокируем blablateka.com
-||code.blablateka.com*
+||code.blablateka.com^
 
 ! Блокируем chatra.io
-||chat.chatra.io*
+||chat.chatra.io^
 
 ! Блокируем consultsystems.ru
-||consultsystems.ru*
+||consultsystems.ru^
 
 ! Блокируем zopim.com
-||v2.zopim.com*
+||v2.zopim.com^
 
 ! Блокируем eyenewton.ru
-||eyenewton.ru*
+||eyenewton.ru^
 
 ! Блокируем callbackhunter.com
-||cdn.callbackhunter.com*
+||cdn.callbackhunter.com^
 
 ! Блокируем me-talk.ru
-||me-talk.ru*
+||me-talk.ru^
 
 ! Блокируем binotel.ua
-||my.binotel.ua*
-||widgets.binotel.com*
+||my.binotel.ua^
+||widgets.binotel.com^
 
 ! Блокируем leadback.ru
-||leadback.ru*
+||leadback.ru^
 
 ! Блокируем venyoo.ru
-||api.venyoo.ru*
+||api.venyoo.ru^
 
 ! Блокируем callbackkiller.com, envybox.io и whitesaas.com
-||cdn.callbackkiller.com*
-||callbackkiller.com*
-||cdn.saas-support.com*
-||whitesaas.com*
+||cdn.callbackkiller.com^
+||callbackkiller.com^
+||cdn.saas-support.com^
+||whitesaas.com^
 
 ! Блокируем crm.sov-inform-buro.ru
-||crm.sov-inform-buro.ru*
+||crm.sov-inform-buro.ru^
 
 ! Блокируем verbox.ru
-||admin.verbox.ru*
+||admin.verbox.ru^
 
 ! Блокируем tawk.to
-||embed.tawk.to*
+||embed.tawk.to^
+||tawk.to^
 
 ! Блокируем teletype.app
-||widget.teletype.app*
+||widget.teletype.app^
+
+! Блокируем bitrix24.ru
+||bitrix24.ru^
+
+! Блокируем teletype.app
+|| widget.teletype.app^
+
+! Блокируем relap.io
+|| relap.io^
+
+! Блокируем uptolike.com
+|| uptolike.com^
+
+! Блокируем pozvonim.com
+|| pozvonim.com^
+
+! Блокируем intercom.com
+|| intercomcdn.com^
+|| intercomassets.com^
+|| intercom.com^
+|| intercom.io^
+
+! Блокируем perezvonok.ru
+|| perezvonok.ru^
+
+! Блокируем redhelper.ru
+|| redhelper.ru^
+
+! Блокируем uptocall.com
+|| uptocall.com^
+
+! Блокируем chaser.ru
+|| chaser.ru^
+
+! Блокируем pogodiwidget.com
+|| pogodiwidget.com^
+
+! Блокируем perezvoni.com
+|| perezvoni.com^
+
+! Блокируем callbaska.ru
+|| callbaska.ru^
+
+! Блокируем 2calls.ru
+|| 2calls.ru^
+
+! Блокируем clevercallback.com
+|| clevercallback.com^
+
+! Блокируем cashmyvisit.com
+|| cashmyvisit.com^
+
+! Блокируем expecto.me
+|| expecto.me^
+
+! Блокируем comagic.ru
+|| comagic.ru^
+
+! Блокируем callibri.ru
+|| callibri.ru^
+
+! Блокируем talk-me.ru
+|| talk-me.ru^
+
+! Блокируем legalaxy.com
+|| legalaxy.com^
+
+! Блокируем roistat.com
+|| roistat.com^
+
+! Блокируем calltouch.ru
+|| calltouch.ru^
