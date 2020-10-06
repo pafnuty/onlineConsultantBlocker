@@ -165,4 +165,7 @@
 
 # Блокируем calltouch.ru
 0.0.0.0 calltouch.ru
+
+# Блокируем comagic.ru
+0.0.0.0 comagic.ru
 #------------------------------
