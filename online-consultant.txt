@@ -169,3 +169,6 @@
 
 ! Блокируем calltouch.ru
 || calltouch.ru^
+
+! Блокируем comagic.ru
+|| comagic.ru^
