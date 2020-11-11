@@ -168,4 +168,7 @@
 
 # Блокируем comagic.ru
 0.0.0.0 comagic.ru
+
+# Блокируем savalive.com
+0.0.0.0 chat.savalive.com
 #------------------------------
