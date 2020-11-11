@@ -172,3 +172,6 @@
 
 ! Блокируем comagic.ru
 || comagic.ru^
+
+! Блокируем savalive.com
+|| chat.savalive.com^
