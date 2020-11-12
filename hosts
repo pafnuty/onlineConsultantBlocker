@@ -92,10 +92,10 @@
 0.0.0.0 tawk.to
 
 # Блокируем teletype.app
-0.0.0.0 widget.teletype.app*
+0.0.0.0 widget.teletype.app
 
 # Блокируем bitrix24.ru
-0.0.0.0 bitrix24.ru*
+0.0.0.0 bitrix24.ru
 
 # Блокируем teletype.app
 0.0.0.0 widget.teletype.app
