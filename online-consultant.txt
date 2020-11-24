@@ -102,76 +102,76 @@
 ||bitrix24.ru^
 
 ! Блокируем teletype.app
-|| widget.teletype.app^
+||widget.teletype.app^
 
 ! Блокируем relap.io
-|| relap.io^
+||relap.io^
 
 ! Блокируем uptolike.com
-|| uptolike.com^
+||uptolike.com^
 
 ! Блокируем pozvonim.com
-|| pozvonim.com^
+||pozvonim.com^
 
 ! Блокируем intercom.com
-|| intercomcdn.com^
-|| intercomassets.com^
-|| intercom.com^
-|| intercom.io^
+||intercomcdn.com^
+||intercomassets.com^
+||intercom.com^
+||intercom.io^
 
 ! Блокируем perezvonok.ru
-|| perezvonok.ru^
+||perezvonok.ru^
 
 ! Блокируем redhelper.ru
-|| redhelper.ru^
+||redhelper.ru^
 
 ! Блокируем uptocall.com
-|| uptocall.com^
+||uptocall.com^
 
 ! Блокируем chaser.ru
-|| chaser.ru^
+||chaser.ru^
 
 ! Блокируем pogodiwidget.com
-|| pogodiwidget.com^
+||pogodiwidget.com^
 
 ! Блокируем perezvoni.com
-|| perezvoni.com^
+||perezvoni.com^
 
 ! Блокируем callbaska.ru
-|| callbaska.ru^
+||callbaska.ru^
 
 ! Блокируем 2calls.ru
-|| 2calls.ru^
+||2calls.ru^
 
 ! Блокируем clevercallback.com
-|| clevercallback.com^
+||clevercallback.com^
 
 ! Блокируем cashmyvisit.com
-|| cashmyvisit.com^
+||cashmyvisit.com^
 
 ! Блокируем expecto.me
-|| expecto.me^
+||expecto.me^
 
 ! Блокируем comagic.ru
-|| comagic.ru^
+||comagic.ru^
 
 ! Блокируем callibri.ru
-|| callibri.ru^
+||callibri.ru^
 
 ! Блокируем talk-me.ru
-|| talk-me.ru^
+||talk-me.ru^
 
 ! Блокируем legalaxy.com
-|| legalaxy.com^
+||legalaxy.com^
 
 ! Блокируем roistat.com
-|| roistat.com^
+||roistat.com^
 
 ! Блокируем calltouch.ru
-|| calltouch.ru^
+||calltouch.ru^
 
 ! Блокируем comagic.ru
-|| comagic.ru^
+||comagic.ru^
 
 ! Блокируем savalive.com
-|| chat.savalive.com^
+||admin.savalive.com^
