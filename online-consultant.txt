@@ -1,5 +1,7 @@
-! Title: onlineConsultantBlocker for ad block extentions (uBlock, AdBlock etc.)
+[Adblock Plus 2.0]
+! Title: Online Consultant Blocker
 ! Homepage: http://git.io/vkfQv
+! Licence: https://github.com/pafnuty/onlineConsultantBlocker/blob/master/LICENSE
 ! Expires: 30 days
 ! Version: 1.1.0
 
