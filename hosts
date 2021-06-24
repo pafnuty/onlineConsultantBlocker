@@ -5,6 +5,7 @@
 # Блокируем jivosite.ru
 0.0.0.0 cdn.jivosite.com
 0.0.0.0 code.jivosite.com
+0.0.0.0 code-ya.jivosite.com
 
 # Блокируем siteheart.com
 0.0.0.0 widget.siteheart.com
