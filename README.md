@@ -8,10 +8,10 @@
 - **OSX:** /private/etc/hosts
 
 ## Как установить?
-- Скопировать текст со страницы [hosts](https://raw.githubusercontent.com/pafnuty/onlineConsultantBlocker/master/hosts) и вставить в свой hosts файл.
+- Скопировать текст со страницы [hosts](https://raw.githubusercontent.com/hegirim/onlineConsultantBlocker/patch-1/hosts) и вставить в свой hosts файл.
 
 ## Как использовать с блокировщиками рекламы?
-- Добавляем [эту ссылку](https://raw.githubusercontent.com/pafnuty/onlineConsultantBlocker/master/online-consultant.txt) как источник в свой блокировщик рекламы.
+- Добавляем [эту ссылку](https://raw.githubusercontent.com/hegirim/onlineConsultantBlocker/patch-1/online-consultant.txt) как источник в свой блокировщик рекламы.
 
 ## Как добавить новую блокировку?
 Если вы наткнулись на сайт, где установлен онлайн-консультант
