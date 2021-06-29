@@ -8,6 +8,7 @@
 ! Блокируем jivosite.ru
 ||cdn.jivosite.com^
 ||code.jivosite.com^
+||code-ya.jivosite.com^
 
 ! Блокируем siteheart.com
 ||widget.siteheart.com^

@@ -21,4 +21,3 @@
 ## Благодарности!
 - [Всем контрибьюторам](https://github.com/pafnuty/onlineConsultantBlocker/graphs/contributors) за помощь в добавлении и редактировании блокировок
 - [acuna-public](https://github.com/acuna-public/CallbackWidgetsBlocker) за большой список консультантов и идею со ссылкой для адблокеров.
-
