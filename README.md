@@ -11,7 +11,7 @@
 - Скопировать текст со страницы [hosts](https://raw.githubusercontent.com/hegirim/onlineConsultantBlocker/patch-1/hosts) и вставить в свой hosts файл.
 
 ## Как использовать с блокировщиками рекламы?
-- Добавляем [эту ссылку](https://raw.githubusercontent.com/hegirim/onlineConsultantBlocker/patch-1/online-consultant.txt) как источник в свой блокировщик рекламы.
+- Добавляем [эту ссылку](https://raw.githubusercontent.com/pafnuty/onlineConsultantBlocker/master/online-consultant.txt) как источник в свой блокировщик рекламы.
 
 ## Как добавить новую блокировку?
 Если вы наткнулись на сайт, где установлен онлайн-консультант
@@ -21,4 +21,3 @@
 ## Благодарности!
 - [Всем контрибьюторам](https://github.com/pafnuty/onlineConsultantBlocker/graphs/contributors) за помощь в добавлении и редактировании блокировок
 - [acuna-public](https://github.com/acuna-public/CallbackWidgetsBlocker) за большой список консультантов и идею со ссылкой для адблокеров.
-
