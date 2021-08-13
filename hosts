@@ -111,10 +111,7 @@
 0.0.0.0 pozvonim.com
 
 # Блокируем intercom.com
-0.0.0.0 intercomcdn.com
-0.0.0.0 intercomassets.com
-0.0.0.0 intercom.com
-0.0.0.0 intercom.io
+0.0.0.0 widget.intercom.io
 
 # Блокируем perezvonok.ru
 0.0.0.0 perezvonok.ru
