@@ -117,10 +117,7 @@
 ||pozvonim.com^
 
 ! Блокируем intercom.com
-||intercomcdn.com^
-||intercomassets.com^
-||intercom.com^
-||intercom.io^
+||widget.intercom.io^
 
 ! Блокируем perezvonok.ru
 ||perezvonok.ru^
